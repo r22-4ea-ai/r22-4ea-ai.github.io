@@ -1,0 +1,44 @@
+<!DOCTYPE>
+<html>
+<head>
+</head>
+</body>
+<table>
+  <tr> 
+    <th colspan="2"> popolazione </th>
+    <th =colspan"2">superficie </th> 
+  </tr>
+  <tr> 
+    <td> italia settentrionale </td>     
+    <td> 27000000 </td> 
+    <td rowspan="3"> 30000000 </td> 
+    <td rowspam="3"> 201 km </td>
+  </tr>
+  <tr> 
+    <td> italia merdionale </td> 
+    <td> 2352435525 </td>
+  </tr>
+  <tr> 
+    <td> </td> 
+    <td> </td>
+  </tr>
+</table>
+</body>
+</html><!DOCTYPE>
+<html>
+<head>
+</head>
+</body>
+<table>
+  <tr> 
+    <th colspan="2"> popolazione </th>
+    <th =colspan"2">superficie </th> 
+  </tr>
+  <tr> 
+    <td> italia settentrionale </td>     
+    <td> 27000000 </td> 
+    <td rowspan="3"> 30000000 </td> 
+    <td rowspam="3"> 201 km </td>
+  </tr>
+  <tr> 
+    <td> italia merdionale </td> 
